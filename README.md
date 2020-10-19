@@ -3,7 +3,7 @@
 
 nama : kontol
 
-![clone](Tutorial/Gitadd.png)
+![clone](Tutorial/Gitadd.png)<br>
 daad
 
 
