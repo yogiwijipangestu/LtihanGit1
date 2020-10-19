@@ -3,4 +3,4 @@
 
 nama : kontol
 
-![clone](Gambar/clone.png)
+![clone](Tutorial/clone.png)
