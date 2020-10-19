@@ -14,6 +14,8 @@ Kelas   : TI 20 A.1<br>
 ![Download-Git](Tutorial/git-install-guide.png)
 
 *Setelah installasi selesai,buka software **GitBash** pada menu di Windows,dan lakukan pengecekan versi,dengan mengetik syntax berikut:
- `git --version`
+ `git --version`<br>
  ![Download-Git](Tutorial/git-version.png)
- 
+
+ *Jika muncul tampilan git version,berarti git sudah berhasil di install dan bisa digunakan.Langkah pertama kita harus mengkonfigurasi user nama dan email di Git,mengetik **syntax** berikut:
+ `git config --global user.name"Masukan Nama Anda disini"git config --global user.email"Masukan Email Anda disini"
