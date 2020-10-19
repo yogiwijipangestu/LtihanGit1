@@ -12,3 +12,5 @@ Kelas   : TI 20 A.1<br>
 
 *Setelah file terdownload,silakan lakukan instalasi dengan referensi berikut ini: [click here](https://git-install-guide.com)
 ![Download-Git](Tutorial/git-install-guide.png)
+
+*Setelah installasi selesai,buka software **GitBash** pada menu di Windows,dan lakukan pengecekan versi,dengan mengetik syntax berikut:
