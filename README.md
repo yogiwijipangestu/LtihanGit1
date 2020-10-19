@@ -1,22 +1,10 @@
 # LatihanGit1
 
 
-nama : kontol
+Nama    : Yogi Wiji Pangestu<br>
+Nim     : 312010079<br>
+Kelas   : TI 20 A.1<br>
 
-![clone](Tutorial/Gitadd.png)<br>
-daad
+# Langkah-Langkah Penggunaan Git
 
-
-![clone](Tutorial/GitClone.png)
-
-ada
-
-![clone](Tutorial/HasilRepositori.png)
-
-
-ad
-![clone](Tutorial/GitPush.png)
-
-da
-
-![clone](Tutorial/Gantiuser.png)
+* Download Git terlebih dahulu,dengan link berikut: [click here] (https://git-scm.com)
