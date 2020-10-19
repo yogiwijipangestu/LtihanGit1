@@ -65,4 +65,4 @@ Setelah file **README.md** diedit, silahkan Simpan file tersebut dengan cara **C
 
 `Hasil Rpositori`
 
-![Hasil-Repositori](Tutorial/HsailRepositori.png)
+![HasilRepositori](Tutorial/HsailRepositori.png)
