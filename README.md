@@ -2,3 +2,5 @@
 
 
 nama : kontol
+
+![clone](Gambar/clone.png)
