@@ -26,3 +26,12 @@ Kelas   : TI 20 A.1<br>
 
 * jika repository sudah dibuat maka akan mucul tampilan seperti dibawah ini:
 ![Download-Git](Tutorial/HasilRepositori.png)
+
+* Pembuatan akun dan repository pada Github telah selesai,saat ini akan kita lakukan untuk *me-remote* repository GitHub pada GitBash lokal.Bagaimana caranya?Langkah pertama kita harus menyalin link URL git kita di GitHub,dengan cara tekan tombol **code** lalu klik *copy*.
+![Download-Git](Tutorial/Code.png)
+
+* Setelah *Link URL* git kita tercopy,silahkan buka File Explore pada windows,kemuadian pilih folder dimana kita akan mendownload Repository dari GitHub ke lokal.Kemudian Klik Kanan,Pilih **Git Bash Here**.
+* *Pop Up*Command Prompt(CMD)akan terbuka.Pada proses ini kita akan melakukan download file repository yang tadi dibuat,dengan mengetik *syntax*berikut:
+`git clone [URL] Pada contohnya,saya akan memasukan *git clone*
+https://github.com/yogiwijipangestu/LtihanGit1.git
+![Download-Git](Tutorial/GitClone.png)
