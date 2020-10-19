@@ -1,5 +1,6 @@
 # LatihanGit1
 
+![logo](Tutorial/logo.png)
 
 Nama    : Yogi Wiji Pangestu<br>
 Nim     : 312010079<br>
