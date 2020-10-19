@@ -61,4 +61,8 @@ Setelah file **README.md** diedit, silahkan Simpan file tersebut dengan cara **C
 
 ![git-push](Tutorial/GitPush.png)
 
-* Semua proses telah selesai, silahkan kembali ke *Web Browser* untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
+* Semua proses telah selesai, silahkan kembali ke *Web Browser* untuk melihat perubahan yang telah di *commit* dan *push* dari remote. <br>
+
+`Hasil Rpositori`
+
+![]()
