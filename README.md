@@ -35,3 +35,10 @@ Kelas   : TI 20 A.1<br>
 `git clone [URL] Pada contohnya,saya akan memasukan *git clone*
 https://github.com/yogiwijipangestu/LtihanGit1.git
 ![Download-Git](Tutorial/GitClone.png)
+
+* Setelah Proses Cloning selesai,pada saat ini kita masih pada folder awal(master),Kita harus masuk kedalam folder yang telah dicloning tadi yaitu *Latihan*VCS dengan mengetikkan *syntax* berikut:
+![Download-Git](Tutorial/LatihanGit1.png)
+ 
+* Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan. Aturan file .md (Markdown) bisa dilihat di Link berikut ini : [click-here](https://guides.github.com/features/mastering-markdown/) 
+
+![markdwon](Tutorial/readme.png)
