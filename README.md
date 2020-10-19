@@ -31,7 +31,7 @@ Kelas   : TI 20 A.1<br>
 ![Download-Git](Tutorial/Code.png)
 
 * Setelah *Link URL* git kita tercopy,silahkan buka File Explore pada windows,kemuadian pilih folder dimana kita akan mendownload Repository dari GitHub ke lokal.Kemudian Klik Kanan,Pilih **Git Bash Here**.
-* *Pop Up*Command Prompt(CMD)akan terbuka.Pada proses ini kita akan melakukan download file repository yang tadi dibuat,dengan mengetik *syntax*berikut:
+* *Pop Up*Command Prompt**(CMD)**akan terbuka.Pada proses ini kita akan melakukan download file repository yang tadi dibuat,dengan mengetik *syntax*berikut:
 `git clone [URL] Pada contohnya,saya akan memasukan *git clone*
 https://github.com/yogiwijipangestu/LtihanGit1.git
 ![Download-Git](Tutorial/GitClone.png)
@@ -49,3 +49,16 @@ Setelah file **README.md** diedit, silahkan Simpan file tersebut dengan cara **C
 `git add`
 
 ![git-add](Tutorial/Gitadd.png)
+
+* Setelah selesai melakukan `git add` . langkah berikutnya kita akan melakukan *commit*. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini : <br>
+`git commit "Update README.md`
+
+![git-commit](Tutorial/GitCommit)
+
+* Git *commit* telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, *Git Push* berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
+
+`Git Push`
+
+![git-push](Tutorial/GitPush.png)
+
+* Semua proses telah selesai, silahkan kembali ke *Web Browser* untuk melihat perubahan yang telah di *commit* dan *push* dari remote.
